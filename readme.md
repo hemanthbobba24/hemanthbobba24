@@ -2,8 +2,7 @@
 
 ## About Me
 
-🎓 Computer Science graduate from VIT (B.Tech, CGPA 8.17)  
-🎯 Currently pursuing Master's at University of Central Missouri  
+🎯 Master's in Computer Science from University of Central Missouri
 💼 Seeking Full-Stack Developer opportunities  
 ☁️ AWS Certified Solutions Architect - Associate  
 🌱 Passionate about building scalable cloud-native applications
