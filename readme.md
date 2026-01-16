@@ -26,7 +26,7 @@ Contributing to projects like Numbas, IssueFlow, and Quizz-App-Frontend
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Hemanth Bobba](https://www.linkedin.com/in/hemanth-bobba-5ba445237/)
+- LinkedIn: [Hemanth Bobba](https://www.linkedin.com/in/hemanth-sri-ram-bobba/)
 - Email: [hemanthbobba246@gmail.com](mailto:hemanthbobba246@gmail.com)
 
 ---
