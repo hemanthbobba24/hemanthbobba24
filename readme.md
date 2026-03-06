@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack
 
-**Backend:** Java 21, Spring Boot, Node.js  
+**Backend:** Java 21, Spring Boot, Node.js, .Net  
 **Frontend:** React, JavaScript, HTML/CSS  
 **Cloud & DevOps:** AWS, Docker  
 **Databases:** MySQL, MongoDB, PostgreSQL  
