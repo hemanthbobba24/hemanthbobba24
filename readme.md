@@ -4,7 +4,7 @@
 
 🎯 Master's in Computer Science from University of Central Missouri                                                                                                               
 💼 Seeking Full-Stack Developer opportunities  
-☁️ AWS Certified Solutions Architect - Associate  
+☁️ AWS Certified Solutions Architect - Associate and AWS AI Practitioner
 🌱 Passionate about building scalable cloud-native applications
 
 ## 🛠️ Tech Stack
