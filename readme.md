@@ -3,17 +3,7 @@
 ## About Me
 
 🎯 Master's in Computer Science from University of Central Missouri                                                                                                               
-💼 Seeking Full-Stack Developer opportunities  
 ☁️ AWS Certified Solutions Architect - Associate and AWS AI Practitioner
-🌱 Passionate about building scalable cloud-native applications
-
-## 🛠️ Tech Stack
-
-**Backend:** Java 21, Spring Boot, Node.js, .Net  
-**Frontend:** React, JavaScript, HTML/CSS  
-**Cloud & DevOps:** AWS, Docker  
-**Databases:** MySQL, MongoDB, PostgreSQL  
-**Tools:** Git, Maven, Postman
 
 ## 🚀 Featured Projects
 
@@ -26,9 +16,4 @@ Contributing to projects like Numbas, IssueFlow, and Quizz-App-Frontend
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Hemanth Bobba](https://www.linkedin.com/in/hemanth-sri-ram-bobba/)
 - Portfolio: [portfolio website](https://hemanth-portfolio-updated.vercel.app/index.html)
-- Email: [hemanthbobba246@gmail.com](mailto:hemanthbobba246@gmail.com)
-
----
-💡 Always learning, always building!
