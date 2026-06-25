@@ -98,11 +98,8 @@ I'm a Senior AI/ML Engineer with over a decade of experience taking machine lear
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=tokyonight)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7&margin-w=10)
-
 </div>
 
 ---
-*"[Your favorite engineering or ML quote / personal motto goes here.]"*
 
 </div>
