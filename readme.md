@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
 [![Website](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://your-website.com)
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=flat-square&label=Profile+Views)
@@ -19,9 +18,8 @@
 
 ## 🧠 About Me
 
-I'm a Senior AI/ML Engineer with over a decade of experience taking machine learning systems from research notebooks to production at scale. My work spans the full lifecycle — data pipelines, model development, training infrastructure, and reliable deployment. I specialize in **[large language models & generative AI / computer vision / recommender systems — pick your focus]**, and I care about building models that are reliable, observable, and actually ship.
+I'm a Senior AI/ML Engineer with over a decade of experience taking machine learning systems from research notebooks to production at scale. My work spans the full lifecycle data pipelines, model development, training infrastructure, and reliable deployment. I specialize in **[large language models & generative AI / computer vision / recommender systems]**, and I care about building models that are reliable, observable, and actually ship.
 
-- 🔭 Currently building **[your current flagship project]**
 - 🌱 Currently exploring **[agentic systems / multimodal models / efficient inference]**
 - 🏗️ I enjoy the unglamorous parts: data quality, evaluation harnesses, and inference cost
 - 💬 Ask me about **LLMs, MLOps, distributed training, and model optimization**
@@ -89,16 +87,15 @@ I'm a Senior AI/ML Engineer with over a decade of experience taking machine lear
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
 
 
-## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=tokyonight)
 
-</div>
+</div> -->
 
 ---
 
