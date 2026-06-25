@@ -10,7 +10,6 @@
 [![Website](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://your-website.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
 
